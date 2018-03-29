@@ -1,0 +1,27 @@
+[
+	{
+		"city":"Ámsterdam",
+		"distance": 15,
+		"min": 75000,
+		"max": 150000,
+		"minrent": 3000,
+		"maxrent": 5000
+			
+	},
+	{
+		"city":"Zuid",
+		"distance": 10,
+		"min": 100000,
+		"max": 75000,
+		"minrent": 5000,
+		"maxrent": 3000
+	},
+	{
+		"city":"Prinsengracht, Amsterdam",
+		"distance": 10,
+		"min": 50000,
+		"max": 100000,
+		"minrent": 500,
+		"maxrent": 200
+	}
+]
